@@ -24,7 +24,7 @@
   |\*__________\*__ The data distribution is like this.
   * To draw a graph suitable for this data, I need 2 graphs in the form of y = ax + b.
   * In video was used 2 nodes in Hidden Layer.
-  *
+    
   * *****************************************
 Number of input nodes = 1
 Number of nodes per hidden layer = 2
