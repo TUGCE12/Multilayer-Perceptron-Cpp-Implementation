@@ -17,7 +17,7 @@
   * Dataset = [[0.0,0.0],[0.5,1.0],[1.0,0.0]] .
   * Neural Network will be used to find a model that will fit this.
 
-  |&emsp;&emsp;\*
+  |&emsp;&emsp;&emsp;\*
   
   |
   
