@@ -17,11 +17,11 @@
   * Dataset = [[0.0,0.0],[0.5,1.0],[1.0,0.0]] .
   * Neural Network will be used to find a model that will fit this.
 
-  |     *
+  |     \*
   
   |
   
-  |*__________*__ The data distribution is like this.
+  |\*__________\*__ The data distribution is like this.
   * To draw a graph suitable for this data, I need 2 graphs in the form of y = ax + b.
   * In video was used 2 nodes in Hidden Layer.
   *
@@ -42,11 +42,9 @@ Redidual = Observed - Predicted
  Neural Network:
 n= Number of nodes per hidden layer
 i = Number of data
-__________                                    __________________                                ________
 
 |Input[i]|---(x W1[n] )---( + B1[n] )---------|Hidden Layer (n)|---( x W2[n] )------(Sum) + B---|Output|
 
-|________|                                    |________________|                                |______|
 
  (-->SumFunction +B for a x)
  Neural Network Function is = E(i=0->i=2) [B + W2i * softPlus( x * W1i + B1i )]
